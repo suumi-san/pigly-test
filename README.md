@@ -74,8 +74,16 @@ php artisan db:seed
 
 
 
+
+
 ## ダミーデータログイン確認用
 
-+email:test@example.com
++ email:test@example.com
 
-+password:password
++ password:password
+
+
+
+###そのほか
+
+実装できていない箇所がいくつかあります。
