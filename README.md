@@ -58,6 +58,7 @@ php artisan db:seed
 ## ER 図
 
 
+<img width="761" alt="スクリーンショット 2025-05-22 0 05 23" src="https://github.com/user-attachments/assets/bbad5729-4504-4e77-9e51-5558b4ea6020" />
 
 
 ## URL
@@ -70,3 +71,11 @@ php artisan db:seed
   　mysql:8.0.26
 
    PHP:7.4.9-fpm
+
+
+
+## ダミーデータログイン確認用
+
++email:test@example.com
+
++password:password
